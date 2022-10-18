@@ -1,0 +1,16 @@
+ var myFullName;
+console.log(myFullName);
+var myFullName="Avinash Tupe";
+console.log(myFullName);
+myFullName="Avinash Dattatray Tue";
+console.log(myFullName);
+var myLove="I Love Only JS";
+console.log(myLove);
+var firstName="Avinash ";
+var lastName="Tupe";
+var age="22Years";
+var address="hinjewadi";
+var pin_code="411057";
+var gender="male";
+var isMarried="No";
+console.log(firstName,lastName,age,address,pin_code,gender,isMarried);
